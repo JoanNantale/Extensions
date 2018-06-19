@@ -5,7 +5,9 @@ tableextension 50120 MyTable extends Customer
         // Add changes to table fields here
         field(50000;MyField;Text[45])
         {
-            //FieldPropertyName = FieldPropertyValue;
+            
+            Editable = true;
+           
         }
     }
     
