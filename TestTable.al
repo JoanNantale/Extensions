@@ -6,7 +6,7 @@ tableextension 50120 MyTable extends Customer
         field(50000;MyField;Text[45])
         {
             
-            Editable = true;
+       
            
         }
     }
